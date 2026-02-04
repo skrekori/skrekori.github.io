@@ -67,7 +67,7 @@ h3{
     font-style: normal; 
     text-transform:uppercase;
     letter-spacing:0.1em; 
-    border-top: 0.2em;
+    border-top: 0.2em solid rgb(255,127,0);
     padding-top: 0.4em;
     margin: 0.5em;
   
